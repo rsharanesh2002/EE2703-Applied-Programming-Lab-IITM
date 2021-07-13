@@ -1,0 +1,8 @@
+.circuit
+V1 n1 GND 0
+R1 n1 n2 4.5e3
+V2 n2 n3 10
+L2 n3 n4 80.96e-6
+R2 n4 GND 4e3
+C1 n3 GND 2.485e-12
+.end
